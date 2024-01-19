@@ -24,8 +24,6 @@ app/storage/
 public_html/storage
 public_html/hot
 
-storage/*.key
-.env
 
 /.vagrant
 .phpunit.result.cache
